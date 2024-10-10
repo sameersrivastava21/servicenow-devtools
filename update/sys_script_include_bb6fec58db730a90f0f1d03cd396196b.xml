@@ -112,14 +112,16 @@ The encoded query shall prevent Instance Scan to load those records where the ch
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-07-30 12:30:38</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>bb6fec58db730a90f0f1d03cd396196b</sys_id>
-        <sys_mod_count>17</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_name>InstanceScanGetEncodedQueryToPreventUselessChecks</sys_name>
         <sys_package display_value="DevTools" source="x_snc_devtools">d689f6901bd38450a89720a8ec4bcbfd</sys_package>
         <sys_policy>read</sys_policy>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="DevTools">d689f6901bd38450a89720a8ec4bcbfd</sys_scope>
         <sys_update_name>sys_script_include_bb6fec58db730a90f0f1d03cd396196b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-08-15 15:39:51</sys_updated_on>
+        <sys_updated_on>2024-08-28 12:58:56</sys_updated_on>
     </sys_script_include>
 </record_update>

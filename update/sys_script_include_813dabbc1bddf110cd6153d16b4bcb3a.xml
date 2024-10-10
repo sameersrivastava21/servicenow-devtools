@@ -31,6 +31,7 @@
 		'function trecord() {return', 
 		// !!((current.sys_scope != 'global') && (current.sys_package == 'global'));}trecord();
 		"Access Control: 'sys_polaris_configurable_menu_item' : Line(1) column(0)",
+		'new global.ProductContent().refreshContent("adoptionblueprints", "content.zip");',
 		
 		'60b1d53fef12110', // 60b1d53fef1211002841f7f775c0fb54
 		'293eb723d723210', // 293eb723d7232100b6bddb0c82520320
@@ -55,6 +56,8 @@
 		'b21bda22b4ee3c1', // b21bda22b4ee3c10f87755e926c386b9
 		'd9607ab477f1211', // d9607ab477f12110eba8fe21fe5a9939
 		'af31245c7701111', // af31245c770111108bd73a91fa5a9912
+		'3b709a5353fe711', // 3b709a5353fe71104a61ddeeff7b129b
+		'af8c43f15723130', // af8c43f157231300cc25b7d4ef94f9cc     
 		
 		// Flow Designer
 		'"actionOrder" is not defined.',
@@ -71,14 +74,16 @@
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-09-13 12:47:41</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>813dabbc1bddf110cd6153d16b4bcb3a</sys_id>
-        <sys_mod_count>55</sys_mod_count>
+        <sys_mod_count>59</sys_mod_count>
         <sys_name>GetEvaluatorErrorExceptionPatterns</sys_name>
         <sys_package display_value="DevTools" source="x_snc_devtools">d689f6901bd38450a89720a8ec4bcbfd</sys_package>
         <sys_policy>read</sys_policy>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="DevTools">d689f6901bd38450a89720a8ec4bcbfd</sys_scope>
         <sys_update_name>sys_script_include_813dabbc1bddf110cd6153d16b4bcb3a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-08-22 08:46:38</sys_updated_on>
+        <sys_updated_on>2024-09-10 07:37:47</sys_updated_on>
     </sys_script_include>
 </record_update>

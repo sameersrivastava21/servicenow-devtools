@@ -8,11 +8,13 @@ Once the new feature is confirmed, the code should be removed.</description>
         <sys_class_name>x_snc_devtools_technical_debt</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-10-22 13:34:58</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>81dda8651bcab1506c17fdd49b4bcbb4</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Old code to help admins creating cross-scope sysrule_view records</sys_name>
         <sys_package display_value="DevTools" source="x_snc_devtools">d689f6901bd38450a89720a8ec4bcbfd</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="DevTools">d689f6901bd38450a89720a8ec4bcbfd</sys_scope>
         <sys_update_name>x_snc_devtools_technical_debt_81dda8651bcab1506c17fdd49b4bcbb4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>

@@ -44,10 +44,11 @@ ConfigurationItemServiceNowAppInsertOrUpdateLocalApps();</text></syntax_editor_m
         <update_guid_history>cf9450d7a3224a50b7a58ac741de038c:-1130786353</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="ConfigurationItemServiceNowAppInsertOrUp">f71e2e2bdb87c210f0f1d03cd39619a5</sys_audit_delete>
+        <sys_audit_delete display_value="">f71e2e2bdb87c210f0f1d03cd39619a5</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-07-03 17:15:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_db_object display_value="" name="syntax_editor_macro">syntax_editor_macro</sys_db_object>
         <sys_id>389aadbeab4c4af89e2bec4c3f45da49</sys_id>
         <sys_metadata>c39450d7db224a50f0f1d03cd396198b</sys_metadata>
@@ -56,6 +57,7 @@ ConfigurationItemServiceNowAppInsertOrUpdateLocalApps();</text></syntax_editor_m
         <sys_package display_value="DevTools" source="x_snc_devtools">d689f6901bd38450a89720a8ec4bcbfd</sys_package>
         <sys_parent/>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="DevTools">d689f6901bd38450a89720a8ec4bcbfd</sys_scope>
         <sys_scope_delete display_value="">00add56a207e4bf3800cdb72bd156af9</sys_scope_delete>
         <sys_update_name>syntax_editor_macro_c39450d7db224a50f0f1d03cd396198b</sys_update_name>

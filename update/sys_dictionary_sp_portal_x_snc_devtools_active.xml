@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="x_snc_devtools_active" table="sp_portal">
         <active>true</active>
         <array>false</array>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -52,9 +52,11 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-13 09:54:27</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_name>Active</sys_name>
         <sys_package display_value="DevTools" source="x_snc_devtools">d689f6901bd38450a89720a8ec4bcbfd</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="DevTools">d689f6901bd38450a89720a8ec4bcbfd</sys_scope>
         <sys_update_name>sys_dictionary_sp_portal_x_snc_devtools_active</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>

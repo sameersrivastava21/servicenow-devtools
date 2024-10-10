@@ -44,10 +44,11 @@ InstanceScanGetEncodedQueryToPreventUselessChecks();</text></syntax_editor_macro
         <update_guid_history>9a098edca1b70a90073adb877c7a7e7c:-1957664187</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="InstanceScanGetEncodedQueryToPreventUsel">a3198edcdbb70a90f0f1d03cd39619d7</sys_audit_delete>
+        <sys_audit_delete display_value="">a3198edcdbb70a90f0f1d03cd39619d7</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-07-30 19:00:42</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_db_object display_value="" name="syntax_editor_macro">syntax_editor_macro</sys_db_object>
         <sys_id>06e7447334124f358062a89dba63b1f1</sys_id>
         <sys_metadata>92098edcdbb70a90f0f1d03cd396197b</sys_metadata>
@@ -56,6 +57,7 @@ InstanceScanGetEncodedQueryToPreventUselessChecks();</text></syntax_editor_macro
         <sys_package display_value="DevTools" source="x_snc_devtools">d689f6901bd38450a89720a8ec4bcbfd</sys_package>
         <sys_parent/>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="DevTools">d689f6901bd38450a89720a8ec4bcbfd</sys_scope>
         <sys_scope_delete display_value="">00add56a207e4bf3800cdb72bd156af9</sys_scope_delete>
         <sys_update_name>syntax_editor_macro_92098edcdbb70a90f0f1d03cd396197b</sys_update_name>

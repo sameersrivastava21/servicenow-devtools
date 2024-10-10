@@ -3,11 +3,13 @@
         <sys_class_name>sys_ui_action_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-02-05 14:43:36</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>e8f576ab1b8482100e0b2f836b4bcbd8</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>.admin</sys_name>
         <sys_package display_value="DevTools" source="x_snc_devtools">d689f6901bd38450a89720a8ec4bcbfd</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="DevTools">d689f6901bd38450a89720a8ec4bcbfd</sys_scope>
         <sys_ui_action display_value="Go to Test Suite">bbe536ab1b8482100e0b2f836b4bcbff</sys_ui_action>
         <sys_update_name>sys_ui_action_role_e8f576ab1b8482100e0b2f836b4bcbd8</sys_update_name>

@@ -3,11 +3,13 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-12-12 21:22:55</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>3316dd241b3395105b76777d8b4bcb9e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_devtools_dependency.admin</sys_name>
         <sys_package display_value="DevTools" source="x_snc_devtools">d689f6901bd38450a89720a8ec4bcbfd</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="DevTools">d689f6901bd38450a89720a8ec4bcbfd</sys_scope>
         <sys_security_acl display_value="x_snc_devtools_dependency">fb16dd241b3395105b76777d8b4bcb9a</sys_security_acl>
         <sys_update_name>sys_security_acl_role_3316dd241b3395105b76777d8b4bcb9e</sys_update_name>

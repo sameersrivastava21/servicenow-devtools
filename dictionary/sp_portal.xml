@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="synch_attachments=true,update_synch=true" audit="true" db_object_id="9c808d15b9d03110d0adbb64e3a1e9a9" extends="sys_metadata" label="Service Portal" max_length="40" name="sp_portal" type="collection">
-        <element default="true" label="Active" max_length="40" name="x_snc_devtools_active" type="boolean"/>
+    <element attributes="update_synch=true,synch_attachments=true" audit="true" db_object_id="ca506e174f80cf805f1db7718110c7e7" extends="sys_metadata" label="Serviceportal" max_length="40" name="sp_portal" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="true" label="Active" max_length="40" name="x_snc_devtools_active" type="boolean"/>
     </element>
 </database>

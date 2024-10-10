@@ -3,11 +3,13 @@
         <sys_class_name>sys_ui_action_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-02-06 15:33:09</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>181f1c6e1bf869105b76777d8b4bcb5c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Execute Now.admin</sys_name>
         <sys_package display_value="DevTools" source="x_snc_devtools">d689f6901bd38450a89720a8ec4bcbfd</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="DevTools">d689f6901bd38450a89720a8ec4bcbfd</sys_scope>
         <sys_ui_action display_value="Execute Now">dbce5998dbfff4504647dad1f396190a</sys_ui_action>
         <sys_update_name>sys_ui_action_role_181f1c6e1bf869105b76777d8b4bcb5c</sys_update_name>

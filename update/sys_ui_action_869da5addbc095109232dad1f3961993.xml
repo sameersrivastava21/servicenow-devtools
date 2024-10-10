@@ -7,7 +7,7 @@
 
 }]]></client_script_v2>
         <comments>Helps to baseline a new version by setting all default values using the AppSetDefaults() function of the app and removed any "WORK IN PROGRESS" postfixes from the application name.</comments>
-        <condition>IsActive() &amp;&amp; (GetAppCurrentBranch(current) != '') &amp;&amp; (AppGetProperty('ui.baseline_button') == true)</condition>
+        <condition>IsActive() &amp;&amp; (GetAppCurrentBranch(current) != '') &amp;&amp; (AppGetProperty('ui.baseline_button') == true) &amp;&amp; (IsAppShared(current) == false)</condition>
         <form_action>true</form_action>
         <form_button>true</form_button>
         <form_button_v2>false</form_button_v2>
@@ -50,18 +50,20 @@
         <sys_class_name>sys_ui_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-06-12 15:44:49</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>869da5addbc095109232dad1f3961993</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>20</sys_mod_count>
         <sys_name>Baseline Version</sys_name>
         <sys_overrides/>
         <sys_package display_value="DevTools" source="x_snc_devtools">d689f6901bd38450a89720a8ec4bcbfd</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="DevTools">d689f6901bd38450a89720a8ec4bcbfd</sys_scope>
         <sys_update_name>sys_ui_action_869da5addbc095109232dad1f3961993</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-08-15 15:08:33</sys_updated_on>
+        <sys_updated_on>2024-09-09 11:03:20</sys_updated_on>
         <table>sys_app</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>
